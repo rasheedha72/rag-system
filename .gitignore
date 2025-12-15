@@ -1,0 +1,7 @@
+.env
+.venv/
+faiss_db/
+documents/
+__pycache__/
+*.pyc
+.DS_Store
