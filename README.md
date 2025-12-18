@@ -94,7 +94,4 @@ MIT
 **Next:** Optimize & Deploy to Hugging Face
 Then commit and push:
 
-bash
-git add README.md
-git commit -m "Add comprehensive README documentation"
-git push origin main
+ 
